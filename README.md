@@ -1,9 +1,9 @@
 wp-syntaxhighlighter-arduino
 ============================
 
-Highly derivative wordpress plugin to add an Arduino Brush SyntaxHighlighter Evolved.
+Highly wordpress plugin to add an Arduino Brush SyntaxHighlighter Evolved.
 
-It would not have been possible without the work of 
+It would not have been possible without and currently very derivative of: 
 - Alex Gorbatchev
 -- http://alexgorbatchev.com/SyntaxHighlighter/manual/brushes/custom.html
 - Alex Mills
