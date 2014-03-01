@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: SyntaxHighlighter Evolved: Arduino
-Plugin URI: http://carlynorama.github.com/wp-plugin-sytaxhighlighter-arduinolite
-Description: A SytaxHighlighter Brush for highlighting Arduino code based on the work of  Jonathan Guberman (http://upnotnorth.net) and Alex Gorbatchev (http://alexgorbatchev.com) and Francis Yaconiello (http://www.yaconiello.com/)
+Plugin URI: https://github.com/carlynorama/wp-syntaxhighlighter-arduino
+Description: A SytaxHighlighter Brush for highlighting Arduino code for the SyntaxHighlighter Evolved plugin by Alex Gorbatchev. Please see the README for full credits.
 Version: 1.0.1
 Author: Carlyn Maw
 Author URI: http://carlynorama.com
