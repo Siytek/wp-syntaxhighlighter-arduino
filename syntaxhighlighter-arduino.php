@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: SyntaxHighlighter Evolved: Arduino
+Plugin Name: SyntaxHighlighter Evolved: Arduino Brush
 Plugin URI: https://github.com/carlynorama/wp-syntaxhighlighter-arduino
 Description: A SytaxHighlighter Brush for highlighting Arduino code for the SyntaxHighlighter Evolved plugin by Alex Gorbatchev. Please see the README for full credits.
 Version: 1.0.1
